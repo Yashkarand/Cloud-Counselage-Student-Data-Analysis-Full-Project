@@ -43,7 +43,7 @@ This project analyzes student data from Cloud Counselage events, focusing on key
 
 ## 📜 Code Implementation
 
-The complete Python code for this analysis can be found in the [`Cloud_Counselage_Analysis.ipynb`](./Cloud Counselage Analysis.ipynb) file.
+The complete Python code for this analysis can be found in the [`Cloud_Counselage_Analysis.ipynb`](./Cloud_Counselage_Analysis.ipynb) file.
 
 ## 📌 Sample Visualizations
 
